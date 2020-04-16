@@ -1,0 +1,2 @@
+# jaithcc.github.io
+jaithccのblog
